@@ -4,10 +4,10 @@ about: Füge eine neue Funktionalität hinzu
 title: Als <rolle>, möchte ich <etwas> damit <etwas>
 labels: ''
 assignees: ''
-
 ---
 
 ## Zielsystem
+
 **Betroffenes System: **
 
 ## Priorität
@@ -26,13 +26,13 @@ System sollte:
 
 ## Bedingungen
 
-|     Zeitliche Bedingung      |      Logische Bedingung      | 
-| :------------: | :---------------: | 
-| Wenn...  | Falls... |
+| Zeitliche Bedingung | Logische Bedingung |
+| :-----------------: | :----------------: |
+|       Wenn...       |      Falls...      |
 
 ## Funktionalität
 
-Das muss diese Funktionalität machen: 
+Das muss diese Funktionalität machen:
 
 ## Ergänzungen
 
