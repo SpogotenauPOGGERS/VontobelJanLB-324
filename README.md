@@ -3,9 +3,11 @@
 ## Aufgabe 2
 Erklären Sie hier, wie man `pre-commit` installiert.
 1. Installieren von `pre-commit`
-  ```pip install pre-commit```
+  ```pip
+  pip install pre-commit
+  ```
 
-2. Im Anschluss erstellt man seinen pre-commit hook. Das sind meine.
+3. Im Anschluss erstellt man seinen pre-commit hook. Das sind meine.
    ```yaml
    repos: local
     hooks:
@@ -19,7 +21,7 @@ Erklären Sie hier, wie man `pre-commit` installiert.
         always_run: true
    ```
 
-3. Zum Schluss gibt man noch diesen Befehl in seinem Terminal ein.
+4. Zum Schluss gibt man noch diesen Befehl in seinem Terminal ein.
    ```pre-commit install --hook-type pre-commit --hook-type pre-push```
   Jetzt kann man nur noch Commits tätigen, wenn alle Test erfolgreich sind.
 ## Aufgabe 4
