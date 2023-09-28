@@ -7,7 +7,7 @@ Erklären Sie hier, wie man `pre-commit` installiert.
 
 2. Im Anschluss erstellt man seinen pre-commit hook. Das sind meine.
    ```yaml
-   repo: local
+   repos: local
     hooks:
       - id: pytest-check
         stages: [commit]
