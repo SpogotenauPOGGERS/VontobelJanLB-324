@@ -26,3 +26,10 @@ Erklären Sie hier, wie man `pre-commit` installiert.
   Jetzt kann man nur noch Commits tätigen, wenn alle Test erfolgreich sind.
 ## Aufgabe 4
 Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übertragen.
+
+In Azure in seiner Web-App muss man unter Konfiguration auf "Neue Anwendungseinstellung" klicken und dort seine Werte für die Daten im `.env` File einfügen. 
+In meinem Fall waren es diese Werte.
+![image](https://github.com/SpogotenauPOGGERS/VontobelJanLB-324/assets/89130699/4a229448-fc15-4641-95d7-63ff58e42eca)
+
+[Gehostete Seite](https://tagebbbuch.azurewebsites.net/)
+
